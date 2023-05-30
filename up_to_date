@@ -1,1 +1,2 @@
 echo content filename
+root@5a09aa84842f:/alx-pre_course# echo  >> filename
